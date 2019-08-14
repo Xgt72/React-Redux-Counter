@@ -1,0 +1,4 @@
+{
+	"payload": "[{\"type\":\"ADD_ONE\"},{\"type\":\"REMOVE_ONE\"},{\"type\":\"ADD_ONE\"},{\"type\":\"ADD_ONE\"},{\"type\":\"REMOVE_ONE\"},{\"type\":\"ADD_TEN\"},{\"type\":\"REMOVE_TEN\"},{\"type\":\"ADD_TEN\"},{\"type\":\"REMOVE_ONE\"},{\"type\":\"REMOVE_ONE\"},{\"type\":\"REMOVE_ONE\"},{\"type\":\"ADD_TEN\"},{\"type\":\"ADD_TEN\"},{\"type\":\"REMOVE_TEN\"},{\"type\":\"ADD_ONE\"},{\"type\":\"RESET\"}]",
+	"preloadedState": "0"
+}
